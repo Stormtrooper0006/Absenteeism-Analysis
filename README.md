@@ -28,6 +28,8 @@ After preprocessing, the dataset is assumed to be handed over to the Data Scienc
 
 - The BI Analyst uses the model output (predictions) to derive business insights.
 - Further analysis and visualization are done using SQL and Tableau.
+- Dashboard View
+  ![Absenteeism_Dashboard](https://github.com/user-attachments/assets/759696eb-b72f-43a4-97fb-8be9f2498fba)
 
 ---
 
