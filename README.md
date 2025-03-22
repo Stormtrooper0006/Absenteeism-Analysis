@@ -2,7 +2,7 @@
 
 # 📊 Data Workflow Overview
 
-This project illustrates a typical workflow in a Business Intelligence (BI) and Data Science (DS) collaboration. In this project, I assume the role of the BI Analyst..
+This project illustrates a typical workflow in a Business Intelligence (BI) and Data Science (DS) collaboration. In this project, I assume the role of the BI Analyst.
 
 ---
 
